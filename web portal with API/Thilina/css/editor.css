@@ -1,0 +1,71 @@
+body
+{
+    margin: 0;
+
+}
+.publish_btn
+{
+    font-size: 24px;
+    background-color: #00B710;
+    float: right;
+}
+.formentry
+{
+    height: 480px;
+}
+.form-control3
+{
+    height: 100%;
+}
+.form-control2
+{
+    width: 50%;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.form-control1
+{
+    width: 50%;
+    font-size: 20px;
+    margin-left: 60px;
+    
+}
+.formtit,.formkey
+{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.writeya
+{
+    display: grid;
+    place-items: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+
+
+}
+
+.wordssearch
+{
+    margin-top: 30px;
+    display: grid;
+    width: 100%;
+    place-items: center;
+}
+.swp
+{
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+.sw
+{
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+.button1
+{
+    background-color: #00B710;
+}

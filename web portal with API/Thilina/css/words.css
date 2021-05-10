@@ -1,0 +1,46 @@
+a
+{
+    text-decoration:none;
+}
+.back
+{
+    width:100%;
+    display:grid;
+    place-items:center;
+    font-size: 30px;
+    color: black;
+    
+}
+body
+{
+    width:100%;
+    background-color: #183775;  
+    text-align:center;
+}
+.grid-container {
+    width:100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: #7EC5B7;
+  padding: 10px;
+  height:800px;
+  
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  font-size: 30px;
+  
+  text-align: center;
+  font-family: 'Oswald', sans-serif;}
+  h1,p
+{
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.form1
+{
+    height: 40px;
+}

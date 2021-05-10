@@ -1,0 +1,68 @@
+html,body
+{
+    height:100%;
+}
+.container2
+{
+    height:90%;
+    display:grid;
+    place-items: center;
+}
+body
+{
+    
+    background-size: cover;
+    
+
+}
+.form_login
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #3af0bc;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 40%;
+    border: 2px solid #76eb08;
+    color: white;
+}
+.form_login>input
+{
+    margin: 10px;
+    
+    height: 30px;
+}
+.form_login>input::placeholder
+{
+    text-align: center;
+}
+.form_login>button:nth-child(odd)
+{
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: #1674EA;
+    color: white;
+    
+}
+.form_login>button:nth-child(even)
+{
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: #00B710;
+    color: white;
+    margin-bottom: 10px;
+}
+.head_login
+{
+    text-align: center;
+}
+
+.registration_msg
+{
+    display: grid;
+    place-items: center;
+    background-color: #2686BE;
+    color: white;
+    font-size: 32px;
+    font-family: 'Bebas Neue', cursive;
+
+}

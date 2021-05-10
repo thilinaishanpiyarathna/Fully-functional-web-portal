@@ -1,0 +1,37 @@
+body
+{
+    margin: 0;
+}
+.zero
+{
+    display: flex;
+    flex: 1fr 4fr;
+    border: 2px dotted black;
+}
+.first
+{
+    background-color: white;
+    width: 20%;
+    display: grid;
+    place-items: center;
+    margin-right: 10px;
+    
+}
+.second
+{
+    background-color: white;
+    width: 80%;
+    margin-left: 10px;
+    display: grid;
+    place-items: center;
+}
+.first>img
+{
+    height: 200px;
+    width: 300px;
+
+}
+.link
+{
+    color: rgb(4, 3, 61);
+}

@@ -1,0 +1,1 @@
+"http://localhost/Website_API/api/deleteonearticleapi.php?aid=1&ak=12"

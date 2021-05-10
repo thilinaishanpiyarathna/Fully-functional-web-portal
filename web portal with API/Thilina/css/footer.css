@@ -1,0 +1,84 @@
+
+body
+{
+    background-color:white;
+    
+    
+}
+.footer
+{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    width:100%;
+    background-color:#182722;
+    margin: 0;
+}
+.report-container
+{
+    display: flex;
+    justify-content: space-between;
+    background:yellow;
+}
+.one
+{
+    display: flex;
+    justify-content:space-between;
+    width:100%;
+    border: solid 2px #000000;
+    font-family: 'Spectral SC', serif;
+    color:white;
+    background-color: #08151a;
+    font-size:20px;
+    
+}
+.wimg
+{
+    display:grid;
+    place-items: center;
+    width:100%;
+}
+.wimg>img
+{
+    height:100px;
+    
+
+}
+.covid
+{
+    display: flex;
+    flex: 1.5fr 1fr 1fr;
+    width: 100%;
+    justify-content: space-between;
+    font-family: 'Spectral SC', serif;
+    color:white;
+    background-color: #08151a;
+    font-size:20px;
+    
+}
+.uno
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border:  black 2px solid;
+}
+.dos
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border:  black 2px solid;
+}
+.tres
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: black 2px solid;
+}

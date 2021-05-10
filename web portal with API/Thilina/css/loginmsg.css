@@ -1,0 +1,29 @@
+html,body
+{
+    height: 100%;
+    margin: 0;
+    
+
+}
+
+.alp
+{
+    height: 750px;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    
+}
+
+.bet
+{
+    width: 400px;
+    height:300px;
+    background-color: #00B710;
+    font-size: 32px;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
